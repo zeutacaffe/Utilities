@@ -1,1 +1,1 @@
-# Utilities
+# Various utility scripts for Unity
